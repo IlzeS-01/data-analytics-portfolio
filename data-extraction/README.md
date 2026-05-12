@@ -38,9 +38,9 @@ The automation generates structured output files that are used as inputs for rep
 ### Exported Files
 Below is an example of the files automatically generated and saved to the correct directory:
 
-![Exported Files](Images/exported_files.png)
+![Exported Files](src/Images/exported_files.png)
 
 ### Sample Data
 Example of the raw data extracted and saved into Excel:
 
-![Sample Data](Images/sample_data.png)
+![Sample Data](src/Images/sample_data.png)
