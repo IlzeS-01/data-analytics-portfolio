@@ -46,4 +46,4 @@ This view shows how responses are tracked based on user interaction and subject 
 ### JSON Data Example
 The system uses structured JSON data to manage email configurations and tracking logic:
 
-![JSON File Example](Images/json_file_example.png)
+![JSON File Example](Images/json_file_example-data.png)
